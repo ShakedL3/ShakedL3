@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShakedL3
 - 👀 I’m interested in computers
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently learning Web Development - My first day
 - 💞️ I’m looking to collaborate with big company's
 - 📫 How to reach me ...
 
