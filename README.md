@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ShakedL3
-- 🌱 I’m currently learning Software Engineering 
-- 📫 How to reach me - DISCORD: Shaked#7609
+- Hi, I’m @ShakedL3
+- I’m currently learning Software Engineering 
+- How to reach me - DISCORD: Shaked#7609
 
 <!---
 ShakedL3/ShakedL3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
