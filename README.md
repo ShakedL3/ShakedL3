@@ -1,4 +1,4 @@
-- Hi, I’m @ShakedL3
+- Hi, I’m @ShakedL3 (full name: Shaked Peretz)
 - I’m currently learning Software Engineering 
 - How to reach me - DISCORD: Shaked#7609
 
